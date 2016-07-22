@@ -1,5 +1,5 @@
 {
-    "name": "sylius/flow-bundle",
+    "name": "metromix/flow-bundle",
     "type": "symfony-bundle",
     "description": "Multiple action setups for Symfony2, build your checkouts/installers or whatever needs more than one step to complete.",
     "keywords": ["checkout", "flow", "installation", "steps"],
